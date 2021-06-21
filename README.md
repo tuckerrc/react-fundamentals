@@ -162,6 +162,7 @@ emoji characters are here to help you.
   up (delete code)
 - **Matthew the Muscle** 💪 will indicate that you're working with an exercise
 - **Chuck the Checkered Flag** 🏁 will indicate that you're working with a final
+version
 - **Peter the Product Manager** 👨‍💼 helps us know what our users want
 - **Alfred the Alert** 🚨 will occasionally show up in the test failures with
   potential explanations for why the tests are failing.
